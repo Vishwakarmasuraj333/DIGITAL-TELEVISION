@@ -9,8 +9,12 @@
 5 Assessing Data.   
 
 6 Processing Data.  
+6 B process Event
 
 7 Transforming Data.
+7 A (AUDI car vala)
+7 B Trarnsform
+7 C sun model
 
 8 Organizing Data. 
 
